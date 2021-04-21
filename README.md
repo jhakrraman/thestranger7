@@ -1,16 +1,13 @@
-### Hi there 👋
+Hey there👋, I'm Raman !!
 
-<!--
-**thestranger7/thestranger7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Add a heading](https://user-images.githubusercontent.com/63340485/115499175-9989d400-a28c-11eb-91b0-53a3e1b0a2dd.jpg)
+Welcome to my profile 👔 :  
+-> Second Year Computer Science 💻 Undergraduate Student 👨‍🎓  
+-> Competitive Coder 👨‍💻  
+-> 2🎇 Coder @CodeChef  
+-> 3🎇 Problem Solver @HackerRank  
+-> Full Stack Enthusiast  🌐  
+-> Artificial Intelligence and Machine Learning 😍 ♥  
+-> Loves to Code 👨‍💻  
+-> Hobbies : 🏋️‍♂️ & 🏍️ & 🏏  
