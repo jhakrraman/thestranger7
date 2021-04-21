@@ -11,3 +11,6 @@ Welcome to my profile 👔 :
 -> Artificial Intelligence and Machine Learning 😍 ♥  
 -> Loves to Code 👨‍💻  
 -> Hobbies : 🏋️‍♂️ & 🏍️ & 🏏  
+
+![](https://komarev.com/ghpvc/?username=thestranger7&color=red)
+
