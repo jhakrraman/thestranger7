@@ -12,5 +12,5 @@ Welcome to my profile 👔 :
 -> Loves to Code 👨‍💻  
 -> Hobbies : 🏋️‍♂️ & 🏍️ & 🏏  
 
-![](https://komarev.com/ghpvc/?username=thestranger7&color=red)
+![](https://komarev.com/ghpvc/?username=thestranger7&color=yellow)
 
