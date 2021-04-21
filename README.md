@@ -10,7 +10,7 @@ Welcome to my profile 👔 :
 -> Full Stack Enthusiast  🌐  
 -> Artificial Intelligence and Machine Learning 😍 ♥  
 -> Loves to Code 👨‍💻  
--> Hobbies : 🏋️‍♂️ & 🏍️ & 🏏  
+-> Hobbies : Workout 🏋️‍♂️ & Bikeriding 🏍️ & Cricket 🏏  
 
-![](https://komarev.com/ghpvc/?username=thestranger7&color=yellow)
+![](https://komarev.com/ghpvc/?username=thestranger7&color=red)
 
