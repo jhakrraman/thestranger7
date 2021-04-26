@@ -1,4 +1,4 @@
-Hey there,https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif I'm Raman !!
+Hey there,👋 I'm Raman !!
 
 
 ![Add a heading](https://user-images.githubusercontent.com/63340485/115499175-9989d400-a28c-11eb-91b0-53a3e1b0a2dd.jpg)
