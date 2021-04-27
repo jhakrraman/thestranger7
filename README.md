@@ -40,5 +40,7 @@ Welcome to my profile 👔 :
 </a>  
 </div>  
 
+---
+
 ![](https://komarev.com/ghpvc/?username=thestranger7&color=red)
 
