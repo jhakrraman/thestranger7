@@ -3,12 +3,13 @@ Hey there,<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/ma
 
 ![Add a heading](https://user-images.githubusercontent.com/63340485/115499175-9989d400-a28c-11eb-91b0-53a3e1b0a2dd.jpg)
 Welcome to my profile 👔 :  
--> Second Year Computer Science 💻 Undergraduate Student 👨‍🎓  
+-> Third Year Computer Engineering 💻 Undergraduate Student 👨‍🎓  
 -> Competitive Coder 👨‍💻  
 -> 2🎇 Coder @CodeChef  
--> 3🎇 Problem Solver @HackerRank  
--> Full Stack Enthusiast  🌐  
--> Artificial Intelligence and Machine Learning 😍 ♥  
+-> 4🎇 Problem Solver @HackerRank
+-> Expert @Kaggle
+-> Machine Learning Practitoner 🌐  
+-> Machine Learning and Deep Learning 😍 ♥  
 -> Loves to Code 👨‍💻  
 -> Hobbies : Workout 🏋️‍♂️ & Bikeriding 🏍️ & Cricket 🏏  
 
