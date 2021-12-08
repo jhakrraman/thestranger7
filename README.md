@@ -11,7 +11,7 @@ Welcome to my profile 👔 :
 -> Expert @Kaggle
 -> Machine Learning Practitoner 🌐  
 -> Machine Learning and Deep Learning 😍 ♥  
--> Loves to Code 👨‍💻  
+-> Love to Code 👨‍💻  
 -> Hobbies : Workout 🏋️‍♂️ & Bikeriding 🏍️ & Cricket 🏏  
 
 ### Let's Connect <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="32px">
